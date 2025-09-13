@@ -416,7 +416,7 @@ end
 local formattedTotalValue = formatNumberWithCommas(totalValue)
 
 local embed = {
-    title = "🌵 Grow A Garden Hit - DARK SCRIPTS 🍀",
+    title = "Grow a garden hits by taguko",
     color = 65280,
     fields = {
         {
